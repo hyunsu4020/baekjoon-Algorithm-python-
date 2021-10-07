@@ -17,4 +17,3 @@ print(day)  # 시간초과 발생 따라서 아래 코드가 제일 빠름
 A, B, V = map(int, input().split())
 day = (V - B)/(A - B)
 print(int(day) if day == int(day) else int(day) + 1) #삼항연산자
-
