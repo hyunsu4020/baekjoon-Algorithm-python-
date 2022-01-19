@@ -1,6 +1,6 @@
 t = int(input())
 
-if t % 2 != 0:
+if t % 10 != 0:
     print(-1)
 else:
     a = 0
