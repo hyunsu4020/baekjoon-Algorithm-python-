@@ -9,4 +9,4 @@ while True:
     if sum(divisor) == n:
         print(n, ' = ', ' + '.join(str(i) for i in divisor), sep="")
     else:
-        print(n, 'is NOT perfect')
+        print(n, 'is NOT perfect.')
