@@ -11,3 +11,5 @@ if 1 <= v <= 15:
             print("A")
         elif a < b:
             print("B")
+
+            
