@@ -12,4 +12,4 @@ if 1 <= v <= 15:
         elif a < b:
             print("B")
 
-            
+     
